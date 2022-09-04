@@ -1,0 +1,5 @@
+<suite name="Suite">
+<Parameter name="url" value="https://www.amazon.in/"/>
+  <test thread-count="5" name="Test">
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
